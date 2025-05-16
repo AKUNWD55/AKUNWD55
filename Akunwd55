@@ -1,0 +1,24 @@
+<!doctype html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <title>Halaman AMP dari Codespace</title>
+    <link rel="canonical" href="https://akunwd55.github.io/amp-web/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-boilerplate>
+      body {
+        animation: -amp-start 8s steps(1,end) 0s 1 normal both;
+      }
+      @keyframes -amp-start {
+        from { visibility: hidden; }
+        to { visibility: visible; }
+      }
+    </style>
+    <noscript><style amp-boilerplate>body{animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+  </head>
+  <body>
+    <h1>AMP dari GitHub Codespace</h1>
+    <p>Ini dibuka dari editor online.</p>
+  </body>
+</html>
